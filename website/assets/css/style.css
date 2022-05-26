@@ -1,3 +1,50 @@
 body{
     background: #BDBDBD;
 }
+.jumbotron {
+    height: 662px;
+    background-image: url(../img/bg.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.top-header{
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    margin: 100px 0px 25px;
+}
+.second-header{
+    background-color: white;
+    text-align: center;
+  font-weight: normal;
+}
+.navbar a {
+    color: white;
+}
+.imagen1 {
+    background-image: url(../img/1.jpg);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    background-position: center;
+}
+.first-heading {
+    background-color: white;
+    padding: 50px;
+}
+.gray {
+    color:gray
+}
+/*.titule {
+    font-size: 35px;
+}*/
+.imagen2 {
+    background-image: url(../img/2.jpg);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    background-position: left;
+}
