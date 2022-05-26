@@ -1,6 +1,3 @@
-body{
-    background: #BDBDBD;
-}
 .jumbotron {
     height: 662px;
     background-image: url(../img/bg.jpg);
@@ -17,7 +14,7 @@ body{
 .second-header{
     background-color: white;
     text-align: center;
-  font-weight: normal;
+    font-weight: normal;
 }
 .navbar a {
     color: white;
